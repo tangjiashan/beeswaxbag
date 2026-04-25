@@ -120,7 +120,7 @@ const certifications = [
 ]
 
 useSeoMeta({
-  title: '关于我们 — 亿美包装制品有限公司',
+  title: '关于我们 — 广西亿美纺织制品有限公司',
   description: '15年蜂蜡保鲜袋生产经验，ISO9001认证，FDA食品级认证，产品远销30+国家，值得信赖的环保包装厂家。',
 })
 </script>

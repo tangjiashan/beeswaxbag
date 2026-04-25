@@ -82,7 +82,7 @@
 
 <script setup>
 useSeoMeta({
-  title: '联系我们 — 亿美包装制品有限公司',
-  description: '联系亿美包装获取免费样品和报价，工厂直销蜂蜡保鲜袋、面包袋、食品收纳袋，支持OEM/ODM定制。',
+  title: '联系我们 — 广西亿美纺织有限公司',
+  description: '联系亿美纺织获取免费样品和报价，工厂直销蜂蜡保鲜袋、面包袋、食品收纳袋，支持OEM/ODM定制。',
 })
 </script>
