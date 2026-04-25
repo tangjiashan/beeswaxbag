@@ -1,0 +1,333 @@
+{
+  "_Be5E68A6.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Be5E68A6.js",
+    "name": "nuxt-link",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_CbHDNIrU.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CbHDNIrU.js",
+    "name": "factory2",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "factory2.b95mFodv.png",
+      "factory2.BcNP39tx.jpg"
+    ]
+  },
+  "factory2.b95mFodv.png": {
+    "file": "factory2.b95mFodv.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "factory2.BcNP39tx.jpg": {
+    "file": "factory2.BcNP39tx.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "_D0vBb5fg.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "D0vBb5fg.js",
+    "name": "ProductCard.vue",
+    "imports": [
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_D3YO2W59.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "D3YO2W59.js",
+    "name": "v3",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_DQdwV2mc.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DQdwV2mc.js",
+    "name": "Footer",
+    "imports": [
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "assets/images/bee1.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "bee1.cz9icKLf.jpg",
+    "src": "assets/images/bee1.jpg"
+  },
+  "assets/images/bee2.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "bee2.DMk3_0Wk.jpg",
+    "src": "assets/images/bee2.jpg"
+  },
+  "assets/images/beebag1.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "beebag1.BeV4qcX8.jpg",
+    "src": "assets/images/beebag1.jpg"
+  },
+  "assets/images/beebag2.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "beebag2.CTsaQr_F.jpg",
+    "src": "assets/images/beebag2.jpg"
+  },
+  "assets/images/breadbag1.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "breadbag1.CUtbHEdx.jpg",
+    "src": "assets/images/breadbag1.jpg"
+  },
+  "assets/images/breadbag2.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "breadbag2.XJq_2VpA.jpg",
+    "src": "assets/images/breadbag2.jpg"
+  },
+  "assets/images/factory1.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "factory1.BFQ-WjKU.png",
+    "src": "assets/images/factory1.png"
+  },
+  "assets/images/factory2.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "factory2.BcNP39tx.jpg",
+    "src": "assets/images/factory2.jpg"
+  },
+  "assets/images/factory2.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "factory2.b95mFodv.png",
+    "src": "assets/images/factory2.png"
+  },
+  "assets/images/main.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "main.CqQ_TYqQ.png",
+    "src": "assets/images/main.png"
+  },
+  "node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BoElFTAj.js",
+    "name": "error-404",
+    "src": "node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_D3YO2W59.js"
+    ],
+    "css": []
+  },
+  "error-404.MksMKVWr.css": {
+    "file": "error-404.MksMKVWr.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CEq-K8aC.js",
+    "name": "error-500",
+    "src": "node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js",
+      "_D3YO2W59.js"
+    ],
+    "css": []
+  },
+  "error-500.DOWD7OuR.css": {
+    "file": "error-500.DOWD7OuR.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "C3Z7UxgV.js",
+    "name": "entry",
+    "src": "node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/nuxt/dist/app/components/error-404.vue",
+      "node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "_globalCSS": true
+  },
+  "pages/about.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DshJG3_0.js",
+    "name": "about",
+    "src": "pages/about.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DQdwV2mc.js",
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_CbHDNIrU.js",
+      "_D3YO2W59.js"
+    ],
+    "assets": [
+      "factory1.BFQ-WjKU.png"
+    ]
+  },
+  "factory1.BFQ-WjKU.png": {
+    "file": "factory1.BFQ-WjKU.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "pages/contact.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BBGye-__.js",
+    "name": "contact",
+    "src": "pages/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DQdwV2mc.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_D3YO2W59.js",
+      "_Be5E68A6.js"
+    ]
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "igPgZl2z.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DQdwV2mc.js",
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_D0vBb5fg.js",
+      "_CbHDNIrU.js",
+      "_D3YO2W59.js"
+    ],
+    "assets": [
+      "main.CqQ_TYqQ.png",
+      "bee1.cz9icKLf.jpg",
+      "beebag1.BeV4qcX8.jpg",
+      "breadbag1.CUtbHEdx.jpg"
+    ]
+  },
+  "main.CqQ_TYqQ.png": {
+    "file": "main.CqQ_TYqQ.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "bee1.cz9icKLf.jpg": {
+    "file": "bee1.cz9icKLf.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "beebag1.BeV4qcX8.jpg": {
+    "file": "beebag1.BeV4qcX8.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "breadbag1.CUtbHEdx.jpg": {
+    "file": "breadbag1.CUtbHEdx.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "pages/products.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "E245wbKn.js",
+    "name": "products",
+    "src": "pages/products.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_DQdwV2mc.js",
+      "_D0vBb5fg.js",
+      "_Be5E68A6.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_D3YO2W59.js"
+    ],
+    "assets": [
+      "bee2.DMk3_0Wk.jpg",
+      "breadbag2.XJq_2VpA.jpg",
+      "beebag2.CTsaQr_F.jpg"
+    ]
+  },
+  "bee2.DMk3_0Wk.jpg": {
+    "file": "bee2.DMk3_0Wk.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "breadbag2.XJq_2VpA.jpg": {
+    "file": "breadbag2.XJq_2VpA.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "beebag2.CTsaQr_F.jpg": {
+    "file": "beebag2.CTsaQr_F.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  }
+}

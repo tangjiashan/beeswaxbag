@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:shop48870v9j806y8.1688.com)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(npm ls *)",
+      "Bash(timeout 30 npx nuxt dev)"
+    ]
+  }
+}
