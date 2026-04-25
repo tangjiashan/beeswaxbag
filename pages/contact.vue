@@ -27,7 +27,7 @@
                   </div>
                   <div>
                     <p class="font-medium text-bark-800">邮箱</p>
-                    <p class="text-bark-500 text-sm">info@yimeipackaging.com</p>
+                    <p class="text-bark-500 text-sm">contact@beeswaxbag.cn</p>
                   </div>
                 </li>
                 <li class="flex items-start gap-4">
@@ -64,7 +64,7 @@
                 </svg>
                 <h3 class="font-bold text-bark-800">快速响应</h3>
               </div>
-              <p class="text-bark-500 text-sm">我们通常在工作日24小时内回复。紧急询盘请通过WhatsApp联系我们。</p>
+              <p class="text-bark-500 text-sm">我们通常在工作日24小时内回复。紧急询盘请通过电话联系我们。</p>
             </div>
           </div>
 
