@@ -16,6 +16,6 @@ const stats = [
   { value: '30+', label: '出口国家' },
   { value: '50+', label: '合作客户' },
   { value: '200', label: '最低起订量（件）' },
-  { value: '10+', label: '年生产经验' },
+  { value: '15+', label: '年生产经验' },
 ]
 </script>
